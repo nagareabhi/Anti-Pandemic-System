@@ -1,0 +1,56 @@
+body{
+	background: #00FFFF;
+	color: #333;
+	font-size: 14px;
+	font-family:'Raleway', sans-serif;
+	padding: 0;
+	margin: 0;
+
+}
+*{
+
+	box-sizing: border-box;
+	font-family:'Raleway', sans-serif;
+	margin: 0;
+	font-size: 16px;
+	outline: none; 
+
+
+}
+
+.mainDiv{
+	background: #fff;
+	padding: 20px;
+	width: 800px;
+	margin: 0px auto;
+	margin-top: 200px;
+	
+
+
+}
+
+.headDiv{
+	background: #fff;
+	padding: 20px;
+	width: 800px;
+	margin: 0px auto;
+	margin-top: 200px;
+	
+
+
+}
+
+table, thead, td, tbody {
+	border: 1px solid black;
+	border-spacing: 5px;
+	padding: 15px;
+}
+
+
+h1{
+
+	font-weight:300;
+	font-size:24px;
+
+}
+
